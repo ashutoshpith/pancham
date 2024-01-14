@@ -1,4 +1,4 @@
-module ashutoshpith/pancham
+module github.com/ashutoshpith/pancham
 
 go 1.21.5
 
